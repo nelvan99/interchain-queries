@@ -84,7 +84,7 @@ sudo systemctl restart icqd
 journalctl -u icqd -f -o cat
 ```
 
-You will have to wait some time until you see some logs (5-15min):
+You will have to wait some time until you see some logs (15min):
 ```
 store/bank/key
 height parsed from GetHeightFromMetadata= 0
